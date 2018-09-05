@@ -16,11 +16,35 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="demo23.go" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/demo8/demo23.go">
+      <file leaf-file-name="demo25.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo9/demo25.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="12" selection-start-column="12" selection-end-column="12" />
+            <state relative-caret-position="705">
+              <caret line="47" column="28" lean-forward="true" selection-start-line="47" selection-start-column="28" selection-end-line="47" selection-end-column="28" />
+              <folding>
+                <element signature="e#14#52#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="demo24.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo9/demo24.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="40" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="15" selection-end-column="40" />
+              <folding>
+                <element signature="e#14#44#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="demo26.go" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/demo9/demo26.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="12" column="13" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -70,6 +94,9 @@
         <option value="$PROJECT_DIR$/demo8/demo21.go" />
         <option value="$PROJECT_DIR$/demo8/demo22.go" />
         <option value="$PROJECT_DIR$/demo8/demo23.go" />
+        <option value="$PROJECT_DIR$/demo9/demo24.go" />
+        <option value="$PROJECT_DIR$/demo9/demo25.go" />
+        <option value="$PROJECT_DIR$/demo9/demo26.go" />
       </list>
     </option>
   </component>
@@ -82,7 +109,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="107" />
     <option name="y" value="33" />
     <option name="width" value="1548" />
@@ -106,6 +133,11 @@
               <item name="helloword" type="b2602c69:ProjectViewProjectNode" />
               <item name="helloword" type="462c0819:PsiDirectoryNode" />
               <item name="demo8" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="helloword" type="b2602c69:ProjectViewProjectNode" />
+              <item name="helloword" type="462c0819:PsiDirectoryNode" />
+              <item name="demo9" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="helloword" type="b2602c69:ProjectViewProjectNode" />
@@ -147,31 +179,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build demo22.go">
-    <configuration name="go build demo19.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="helloword" />
-      <working_directory value="$PROJECT_DIR$/" />
-      <go_parameters value="-i" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/demo7/demo19.go" />
-      <directory value="$PROJECT_DIR$/" />
-    </configuration>
-    <configuration name="go build demo20.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="helloword" />
-      <working_directory value="$PROJECT_DIR$/" />
-      <go_parameters value="-i" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/demo7/demo20.go" />
-      <directory value="$PROJECT_DIR$/" />
-    </configuration>
-    <configuration name="go build demo21.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="helloword" />
-      <working_directory value="$PROJECT_DIR$/" />
-      <go_parameters value="-i" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/demo8/demo21.go" />
-      <directory value="$PROJECT_DIR$/" />
-    </configuration>
+  <component name="RunManager" selected="Go Build.go build demo26.go">
     <configuration name="go build demo22.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="helloword" />
       <working_directory value="$PROJECT_DIR$/" />
@@ -180,42 +188,66 @@
       <filePath value="$PROJECT_DIR$/demo8/demo22.go" />
       <directory value="$PROJECT_DIR$/" />
     </configuration>
-    <configuration name="go build demo8.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build demo23.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="helloword" />
       <working_directory value="$PROJECT_DIR$/" />
       <go_parameters value="-i" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/demo2/demo8.go" />
+      <filePath value="$PROJECT_DIR$/demo8/demo23.go" />
+      <directory value="$PROJECT_DIR$/" />
+    </configuration>
+    <configuration name="go build demo24.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="helloword" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/demo9/demo24.go" />
+      <directory value="$PROJECT_DIR$/" />
+    </configuration>
+    <configuration name="go build demo25.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="helloword" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/demo9/demo25.go" />
+      <directory value="$PROJECT_DIR$/" />
+    </configuration>
+    <configuration name="go build demo26.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="helloword" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/demo9/demo26.go" />
       <directory value="$PROJECT_DIR$/" />
     </configuration>
     <list>
-      <item itemvalue="Go Build.go build demo8.go" />
-      <item itemvalue="Go Build.go build demo19.go" />
-      <item itemvalue="Go Build.go build demo20.go" />
-      <item itemvalue="Go Build.go build demo21.go" />
       <item itemvalue="Go Build.go build demo22.go" />
+      <item itemvalue="Go Build.go build demo23.go" />
+      <item itemvalue="Go Build.go build demo24.go" />
+      <item itemvalue="Go Build.go build demo25.go" />
+      <item itemvalue="Go Build.go build demo26.go" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build demo26.go" />
+        <item itemvalue="Go Build.go build demo25.go" />
+        <item itemvalue="Go Build.go build demo24.go" />
+        <item itemvalue="Go Build.go build demo23.go" />
         <item itemvalue="Go Build.go build demo22.go" />
-        <item itemvalue="Go Build.go build demo21.go" />
-        <item itemvalue="Go Build.go build demo20.go" />
-        <item itemvalue="Go Build.go build demo19.go" />
-        <item itemvalue="Go Build.go build demo8.go" />
       </list>
     </recent_temporary>
   </component>
   <component name="ToolWindowManager">
-    <frame x="107" y="33" width="1548" height="962" extended-state="0" />
+    <frame x="107" y="33" width="1548" height="962" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49820143" visible="true" weight="0.27423638" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49820143" visible="true" weight="0.27755645" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3283237" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3283237" />
       <window_info anchor="right" id="Structure" order="4" side_tool="true" weight="0.20321229" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32947975" />
       <window_info anchor="right" id="Favorites" order="5" sideWeight="0.50179857" side_tool="true" weight="0.38547486" />
@@ -245,6 +277,13 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/demo8/demo23.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="7" lean-forward="true" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/demo7/demo20.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
@@ -441,13 +480,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../libexec/src/builtin/builtin.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="182" column="5" selection-start-line="182" selection-start-column="5" selection-end-line="182" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/demo5/demo16.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -532,6 +564,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../../libexec/src/builtin/builtin.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="213" column="5" selection-start-line="213" selection-start-column="5" selection-end-line="213" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../libexec/src/time/sleep.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="158" column="19" selection-start-line="158" selection-start-column="19" selection-end-line="158" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../libexec/src/time/time.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="641" column="4" selection-start-line="641" selection-start-column="4" selection-end-line="641" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/demo8/demo21.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -548,8 +601,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/demo8/demo23.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        <state relative-caret-position="60">
+          <caret line="4" column="7" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo9/demo25.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="47" column="28" lean-forward="true" selection-start-line="47" selection-start-column="28" selection-end-line="47" selection-end-column="28" />
+          <folding>
+            <element signature="e#14#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo9/demo24.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="40" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="15" selection-end-column="40" />
+          <folding>
+            <element signature="e#14#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo9/demo26.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="12" column="13" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
         </state>
       </provider>
     </entry>
