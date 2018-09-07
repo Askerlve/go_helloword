@@ -10,6 +10,9 @@ var channels = [3]chan int{
 
 var numbers = []int{1, 2, 3}
 
+/**
+非缓冲通道，情况要简单有一些。无论是发送操作还是接收操作，一开始就被阻塞，知道有配对的操作出现，同存同取
+ */
 func main() {
 	select {
 	case getChan(0) <- getNumber(0):
@@ -30,6 +33,5 @@ func getNumber(i int) int {
 
 func getChan(i int) chan int {
 	fmt.Printf("channels[%d]\n", i)
-	channels[1] <- getNumber(1)
 	return channels[i]
 }
