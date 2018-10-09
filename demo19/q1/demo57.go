@@ -1,4 +1,4 @@
-package q2
+package q1
 
 import (
 	"math"
