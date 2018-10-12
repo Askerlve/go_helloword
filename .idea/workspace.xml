@@ -15,26 +15,26 @@
     <favorites_list name="helloword" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="quickSort.go" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/algotithm/quickSort.go">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="demo62.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo21/q1/demo62.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="235">
-              <caret line="30" column="33" selection-start-line="30" selection-start-column="33" selection-end-line="30" selection-end-column="33" />
+            <state relative-caret-position="82">
+              <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
               <folding>
-                <element signature="e#14#42#0" expanded="true" />
+                <element signature="e#14#47#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="selectionSort.go" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/algotithm/selectionSort.go">
+      <file leaf-file-name="demo63.go" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/demo21/q2/demo63.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="277">
-              <caret line="28" selection-start-line="28" selection-end-line="34" selection-end-column="1" />
+            <state relative-caret-position="265">
+              <caret line="32" column="26" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="26" />
               <folding>
-                <element signature="e#14#42#0" expanded="true" />
+                <element signature="e#14#47#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -56,9 +56,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/demo10/demo27.go" />
-        <option value="$PROJECT_DIR$/demo10/demo28.go" />
-        <option value="$PROJECT_DIR$/demo10/demo29.go" />
         <option value="$PROJECT_DIR$/demo11/demo30.go" />
         <option value="$PROJECT_DIR$/demo11/demo31.go" />
         <option value="$PROJECT_DIR$/demo12/demo32.go" />
@@ -107,6 +104,9 @@
         <option value="$PROJECT_DIR$/algotithm/shellSort.go" />
         <option value="$PROJECT_DIR$/algotithm/mergeSort.go" />
         <option value="$PROJECT_DIR$/algotithm/quickSort.go" />
+        <option value="$PROJECT_DIR$/algorithm/bubbleSort.go" />
+        <option value="$PROJECT_DIR$/demo21/q1/demo62.go" />
+        <option value="$PROJECT_DIR$/demo21/q2/demo63.go" />
       </list>
     </option>
   </component>
@@ -142,29 +142,24 @@
             <path>
               <item name="helloword" type="b2602c69:ProjectViewProjectNode" />
               <item name="helloword" type="462c0819:PsiDirectoryNode" />
-              <item name="algotithm" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="helloword" type="b2602c69:ProjectViewProjectNode" />
               <item name="helloword" type="462c0819:PsiDirectoryNode" />
-              <item name="demo16" type="462c0819:PsiDirectoryNode" />
+              <item name="demo21" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="helloword" type="b2602c69:ProjectViewProjectNode" />
               <item name="helloword" type="462c0819:PsiDirectoryNode" />
-              <item name="demo16" type="462c0819:PsiDirectoryNode" />
-              <item name="q0" type="462c0819:PsiDirectoryNode" />
+              <item name="demo21" type="462c0819:PsiDirectoryNode" />
+              <item name="q1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="helloword" type="b2602c69:ProjectViewProjectNode" />
               <item name="helloword" type="462c0819:PsiDirectoryNode" />
-              <item name="demo20" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="helloword" type="b2602c69:ProjectViewProjectNode" />
-              <item name="helloword" type="462c0819:PsiDirectoryNode" />
-              <item name="demo20" type="462c0819:PsiDirectoryNode" />
-              <item name="q3" type="462c0819:PsiDirectoryNode" />
+              <item name="demo21" type="462c0819:PsiDirectoryNode" />
+              <item name="q2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="helloword" type="b2602c69:ProjectViewProjectNode" />
@@ -207,13 +202,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build quickSort.go">
-    <configuration name="go build bubbleSort.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Build.go build demo63.go">
+    <configuration name="go build demo62.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="helloword" />
       <working_directory value="$PROJECT_DIR$/" />
       <go_parameters value="-i" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/algotithm/bubbleSort.go" />
+      <filePath value="$PROJECT_DIR$/demo21/q1/demo62.go" />
+      <directory value="$PROJECT_DIR$/" />
+    </configuration>
+    <configuration name="go build demo63.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="helloword" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/demo21/q2/demo63.go" />
       <directory value="$PROJECT_DIR$/" />
     </configuration>
     <configuration name="go build insertionSort.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
@@ -232,14 +235,6 @@
       <filePath value="$PROJECT_DIR$/algotithm/quickSort.go" />
       <directory value="$PROJECT_DIR$/" />
     </configuration>
-    <configuration name="go build selectionSort.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="helloword" />
-      <working_directory value="$PROJECT_DIR$/" />
-      <go_parameters value="-i" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/algotithm/selectionSort.go" />
-      <directory value="$PROJECT_DIR$/" />
-    </configuration>
     <configuration name="go build shellSort.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="helloword" />
       <working_directory value="$PROJECT_DIR$/" />
@@ -249,19 +244,19 @@
       <directory value="$PROJECT_DIR$/" />
     </configuration>
     <list>
-      <item itemvalue="Go Build.go build bubbleSort.go" />
-      <item itemvalue="Go Build.go build selectionSort.go" />
       <item itemvalue="Go Build.go build insertionSort.go" />
       <item itemvalue="Go Build.go build shellSort.go" />
       <item itemvalue="Go Build.go build quickSort.go" />
+      <item itemvalue="Go Build.go build demo62.go" />
+      <item itemvalue="Go Build.go build demo63.go" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build demo63.go" />
+        <item itemvalue="Go Build.go build demo62.go" />
         <item itemvalue="Go Build.go build quickSort.go" />
         <item itemvalue="Go Build.go build shellSort.go" />
         <item itemvalue="Go Build.go build insertionSort.go" />
-        <item itemvalue="Go Build.go build selectionSort.go" />
-        <item itemvalue="Go Build.go build bubbleSort.go" />
       </list>
     </recent_temporary>
   </component>
@@ -277,26 +272,47 @@
     <frame x="106" y="31" width="1548" height="962" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49820143" visible="true" weight="0.32735723" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49820143" visible="true" weight="0.3313413" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.500664" side_tool="true" weight="0.32947975" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3283237" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3283237" />
       <window_info anchor="right" id="Structure" order="4" side_tool="true" weight="0.20321229" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32947975" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.499336" weight="0.32947975" />
       <window_info anchor="right" id="Favorites" order="5" sideWeight="0.50179857" side_tool="true" weight="0.38547486" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Messages" order="7" />
     </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3283237" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49820143" visible="true" weight="0.3313413" />
+      <window_info anchor="right" id="Structure" order="4" side_tool="true" weight="0.20321229" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.499336" weight="0.32947975" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.500664" side_tool="true" weight="0.32947975" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Favorites" order="5" sideWeight="0.50179857" side_tool="true" weight="0.38547486" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -310,7 +326,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="13" />
+      <option name="time" value="14" />
     </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
@@ -323,34 +339,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/demo10/demo29.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="615">
-          <caret line="51" column="38" selection-start-line="51" selection-start-column="38" selection-end-line="51" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo13/q1/demo36.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1020">
-          <caret line="68" column="25" selection-start-line="68" selection-start-column="21" selection-end-line="68" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo13/q2/demo37.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="7" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo13/q3/demo38.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/demo14/q1/demo39.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -595,13 +583,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../libexec/src/sync/rwmutex.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="30" column="13" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/demo16/q0/demo45.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -613,46 +594,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="196">
           <caret line="30" column="16" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="16" />
-          <folding>
-            <element signature="e#14#47#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/algotithm/sortTest.go">
+    <entry file="file://$PROJECT_DIR$/algorithm/sortTest.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="14" lean-forward="true" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/algotithm/bubbleSort.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="429">
-          <caret line="29" column="1" lean-forward="true" selection-start-line="23" selection-end-line="29" selection-end-column="1" />
-          <folding>
-            <element signature="e#14#42#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algotithm/insertionSort.go">
+    <entry file="file://$PROJECT_DIR$/algorithm/insertionSort.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
-          <folding>
-            <element signature="e#14#42#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/algotithm/shellSort.go">
+    <entry file="file://$PROJECT_DIR$/algorithm/shellSort.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="310">
           <caret line="25" selection-start-line="25" selection-end-line="25" />
-          <folding>
-            <element signature="e#14#42#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -663,16 +625,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/algotithm/mergeSort.go">
+    <entry file="file://$PROJECT_DIR$/algorithm/mergeSort.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/algotithm/selectionSort.go">
+    <entry file="file://$PROJECT_DIR$/algorithm/quickSort.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
+        <state relative-caret-position="255">
+          <caret line="19" column="48" lean-forward="true" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/selectionSort.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
           <caret line="28" selection-start-line="28" selection-end-line="34" selection-end-column="1" />
           <folding>
             <element signature="e#14#42#0" expanded="true" />
@@ -680,12 +649,53 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/algotithm/quickSort.go">
+    <entry file="file://$PROJECT_DIR$/../../libexec/src/sync/mutex.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="30" column="33" selection-start-line="30" selection-start-column="33" selection-end-line="30" selection-end-column="33" />
+        <state relative-caret-position="177">
+          <caret line="31" column="4" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/bubbleSort.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
           <folding>
             <element signature="e#14#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../libexec/src/sync/rwmutex.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-70">
+          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo21/q1/demo62.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="82">
+          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+          <folding>
+            <element signature="e#14#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../libexec/src/sync/cond.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo21/q2/demo63.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="32" column="26" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="26" />
+          <folding>
+            <element signature="e#14#47#0" expanded="true" />
           </folding>
         </state>
       </provider>
